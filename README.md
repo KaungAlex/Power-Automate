@@ -56,7 +56,7 @@ Business Reporting
 
 ## 📸 Workflow Overview
 
-![Power Automate Workflow](screenshots/workflow.png)
+![Power Automate Workflow](powerautomate.jpg)
 
 ---
 
