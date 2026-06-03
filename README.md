@@ -170,24 +170,6 @@ The workflow automatically inserts returned records into an Excel table.
 
 ---
 
-## 📂 Repository Structure
-
-```text
-power-automate-powerbi-automation/
-│
-├── README.md
-│
-├── screenshots/
-│   └── workflow.png
-│
-├── documentation/
-│   └── process_flow.pdf
-│
-└── exports/
-    └── flow_export.zip
-```
-
----
 
 ## Business Value
 
